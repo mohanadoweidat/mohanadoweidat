@@ -6,4 +6,3 @@
 - 🌱 I'm passionate about expanding my knowledge in mobile and web frameworks and tools
 - 💬 Feel free to reach out to me for any inquiries or discussions
 - 📫 You can reach me via email: mohanad.h.owidat@gmail.com
-- 📄 Explore my experiences: [Portfolio](http://windows.u7979705.fsdata.se)
